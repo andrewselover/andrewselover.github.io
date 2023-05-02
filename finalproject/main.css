@@ -63,15 +63,26 @@ article > p {
 }
 
 .story_image {
-  width: 100%;
+  float: left;
+  width: 30%;
+  margin-right: 10px;
 }
 
-.caption {
+.story_img {
+  float: right;
+  width: 30%;
+  margin-left: 10px;
+}
+ .caption {
+  float: left;
   font-family: Roboto Slab;
   color: gray;
   font-size: 14px;
   margin-top: 5px;
+
 }
+
+
 
 footer {
   margin-top: 30px;
