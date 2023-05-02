@@ -1,0 +1,93 @@
+body {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+nav {
+  border-top: 8px solid black;
+  border-bottom: 1px solid black;
+  padding: 20px;
+  text-align: center;
+  background-color: lightblue;
+
+}
+
+.logo {
+  width: 130px;
+}
+
+.sitemotto {
+  color: #263c80;
+  font-family: Basier, Arial, sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+article {
+  margin-left: 10%;
+  width: 80%;
+}
+
+header {
+    font-family: Roboto Slab;
+    font-size: 20px;
+}
+
+h1 {
+  font-size: 46px;
+  text-align: center;
+
+}
+h2 {
+  font-family: Ysabeau;
+  color: darkgrey;
+  font-size: 20px;
+  max-width: 75%;
+  margin-left: 12.5%;
+  text-align: center;
+}
+
+.byline {
+  font-weight: bold;
+}
+
+.tdpad {
+  padding: 15px;
+}
+
+article > p {
+  font-family: Playfair;
+  font-size: 20px;
+}
+
+.story_image {
+  width: 100%;
+}
+
+.caption {
+  font-family: Roboto Slab;
+  color: gray;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+footer > p {
+  font-size: 14px;
+  color: #666;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
